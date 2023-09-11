@@ -2,6 +2,7 @@
 
 using namespace std;
 
+//create node
 struct Node
 {
     int key;
